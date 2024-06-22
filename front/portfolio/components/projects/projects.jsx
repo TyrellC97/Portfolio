@@ -7,7 +7,7 @@ export default function Projects() {
   
   const [projects, setProjects] = useState([{}])
 
-  const url = "http://localhost:3000/projects"
+  const url = "https://portfolio-iyuo.onrender.com/projects" 
   
   useEffect(() => {
     const getProjects = async () => {

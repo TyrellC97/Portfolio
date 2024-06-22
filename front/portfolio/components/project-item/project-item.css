@@ -1,0 +1,41 @@
+.item-container {
+    height: 10%;
+    width: 95%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(104, 245, 43, 0.541) -5px 5px, rgba(130, 224, 16, 0.3) -10px 10px, rgba(90, 116, 48, 0.2) -15px 15px, rgba(80, 114, 85, 0.1) -20px 20px, rgba(48, 53, 46, 0.05) -25px 25px;
+    margin-bottom: 20px;
+display: flex;
+flex-direction: column;
+
+}
+    
+
+
+ .bebas-neue-regular {
+ font-family: "Bebas Neue", sans-serif;
+font-weight: 400;
+font-style: normal; }
+
+.title {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+
+.p-button {
+    height: 80%;
+    margin: 10px;
+    cursor: pointer;
+    
+    
+}
+
+
+.desc {
+    color: rgb(43, 43, 43);
+}

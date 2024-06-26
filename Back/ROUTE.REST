@@ -5,11 +5,11 @@ POST http://localhost:3000/projects
 Content-Type: application/json
 
 {
-    "name": "Social Media Platform" ,
-    "link" : "https://final-capstone-frontend-y54c.onrender.com/",
-    "description" : "full MERN stack social platform with full CRUD operations" 
+    "name": "Login/signup form" ,
+    "link" : "https://login-signup-ibyp.onrender.com/",
+    "description" : "React front end log in form" 
 }
 ###
 
-DELETE http://localhost:3000/projects/66752b1b732566964de23f3a
+DELETE http://localhost:3000/projects/667b3e824e26b65becbe2ef9
 ###
